@@ -572,6 +572,621 @@
         "parent": null
       }
     },
-    "enums": {}
+    "enums": {
+      "CAK47": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CAmbientGeneric": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CBaseCSGrenadeProjectile": {
+        "alignment": 12,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CBaseDoor": {
+        "alignment": 10,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CBaseFlex": {
+        "alignment": 11,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CBombTarget": {
+        "alignment": 10,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CBuyZone": {
+        "alignment": 9,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CCSObserver_ObserverServices": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CCSPlayerController_InGameMoneyServices": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CCSPlayerPawn": {
+        "alignment": 28,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CCSPlayerPawnBase": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CCSTeam": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CDecoyGrenade": {
+        "alignment": 18,
+        "members": {},
+        "type": "unknown"
+      },
+      "CEntityDissolve": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CEnvCombinedLightProbeVolume": {
+        "alignment": 22,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEnvExplosion": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CEnvHudHint": {
+        "alignment": 4,
+        "members": {
+          "": 0
+        },
+        "type": "uint32"
+      },
+      "CEnvInstructorVRHint": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEnvLaser": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CEnvMuzzleFlash": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEnvSoundscapeTriggerableAlias_snd_soundscape_triggerable": {
+        "alignment": 5,
+        "members": {},
+        "type": "unknown"
+      },
+      "CEnvWindVolume": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CFilterAttributeInt": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CFogVolume": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CFuncLadderAlias_func_useableladder": {
+        "alignment": 8,
+        "members": {},
+        "type": "uint64"
+      },
+      "CFuncMoverAPI": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CFuncNavBlocker": {
+        "alignment": 7,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CFuncPropRespawnZone": {
+        "alignment": 4,
+        "members": {},
+        "type": "uint32"
+      },
+      "CFuncRetakeBarrier": {
+        "alignment": 13,
+        "members": {},
+        "type": "unknown"
+      },
+      "CFuncTrackAuto": {
+        "alignment": 8,
+        "members": {},
+        "type": "uint64"
+      },
+      "CFuncTrackChange": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CGunTarget": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CHandleDummy": {
+        "alignment": 4,
+        "members": {},
+        "type": "uint32"
+      },
+      "CHostage": {
+        "alignment": 46,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInferno": {
+        "alignment": 20,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInfoDynamicShadowHint": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInfoFan": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInfoTarget": {
+        "alignment": 4,
+        "members": {},
+        "type": "uint32"
+      },
+      "CInfoTargetServerOnly": {
+        "alignment": 4,
+        "members": {},
+        "type": "uint32"
+      },
+      "CInfoWorldLayer": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInstancedSceneEntity": {
+        "alignment": 10,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CItem": {
+        "alignment": 11,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CItemAssaultSuit": {
+        "alignment": 11,
+        "members": {},
+        "type": "unknown"
+      },
+      "CItemGeneric": {
+        "alignment": 12,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CItemKevlar": {
+        "alignment": 11,
+        "members": {},
+        "type": "unknown"
+      },
+      "CItemSoda": {
+        "alignment": 10,
+        "members": {},
+        "type": "unknown"
+      },
+      "CItem_Healthshot": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CLogicNPCCounterAABB": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CLogicPlayerProxy": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CMapInfo": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CMarkupVolumeTagged_Nav": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CMarkupVolumeWithRef": {
+        "alignment": 8,
+        "members": {
+          "": 0
+        },
+        "type": "uint64"
+      },
+      "CModelPointEntity": {
+        "alignment": 7,
+        "members": {},
+        "type": "unknown"
+      },
+      "CMolotovProjectile": {
+        "alignment": 13,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CNavLinkAreaEntity": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CParticleSystem": {
+        "alignment": 13,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPathParticleRope": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPathSimpleAPI": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CPhysImpact": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPhysMagnet": {
+        "alignment": 11,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPhysicsProp": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPhysicsPropMultiplayer": {
+        "alignment": 14,
+        "members": {},
+        "type": "unknown"
+      },
+      "CPointClientCommand": {
+        "alignment": 4,
+        "members": {},
+        "type": "uint32"
+      },
+      "CPointClientUIWorldTextPanel": {
+        "alignment": 11,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPointGamestatsCounter": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPointGiveAmmo": {
+        "alignment": 4,
+        "members": {
+          "": 0
+        },
+        "type": "uint32"
+      },
+      "CPropDoorRotating": {
+        "alignment": 16,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CRagdollProp": {
+        "alignment": 11,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CRagdollPropAttached": {
+        "alignment": 12,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CSceneEntityAlias_logic_choreographed_scene": {
+        "alignment": 10,
+        "members": {},
+        "type": "unknown"
+      },
+      "CSmokeGrenade": {
+        "alignment": 18,
+        "members": {},
+        "type": "unknown"
+      },
+      "CSmokeGrenadeProjectile": {
+        "alignment": 47,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CSoundAreaEntityBase": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CSoundEventOBBEntity": {
+        "alignment": 5,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CSpriteAlias_env_glow": {
+        "alignment": 8,
+        "members": {},
+        "type": "uint64"
+      },
+      "CTestPulseIO": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTouchExpansionComponent": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CTriggerCallback": {
+        "alignment": 9,
+        "members": {},
+        "type": "unknown"
+      },
+      "CTriggerDetectBulletFire": {
+        "alignment": 9,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerGameEvent": {
+        "alignment": 9,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerImpact": {
+        "alignment": 10,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerLook": {
+        "alignment": 10,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerProximity": {
+        "alignment": 9,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerSndSosOpvar": {
+        "alignment": 13,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerTeleport": {
+        "alignment": 9,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CWaterBullet": {
+        "alignment": 10,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponCZ75a": {
+        "alignment": 18,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CWeaponFamas": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponFiveSeven": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponG3SG1": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponGalilAR": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponM4A1": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponMP5SD": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponMag7": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponP250": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponSG556": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "CWeaponTaser": {
+        "alignment": 18,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CWeaponXM1014": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      }
+    }
   }
 }
