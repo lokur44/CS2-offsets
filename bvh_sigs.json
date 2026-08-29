@@ -6,7 +6,8 @@
     "fnSurfaceFn": 10139120,
     "fnTraceCall": 8742137,
     "fnTraceFilterInit": 3424640,
-    "fnTraceShape": 10359712
+    "fnTraceShape": 10359712,
+    "vtableCTraceFilter": 26833752
   },
   "vphysics2.dll": {
     "vtableCRnHullShape": 3855712,
