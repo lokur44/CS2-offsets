@@ -2,7 +2,7 @@
   "client.dll": {
     "dwActiveHudWeapon": 34226432,
     "dwEntitySystemPtr": 35886896,
-    "fnFindHudElement": 14741888,
+    "fnFindHudElement": 14741904,
     "fnFrameStageNotify": 11686272,
     "fnRegenerateWeaponSkins": 8384672,
     "fnSetMeshGroupMask": 11012992,
