@@ -1,9 +1,9 @@
 {
   "client.dll": {
-    "dwSurfaceManager": 39074336,
-    "dwVphys2WorldPtr": 35774968,
-    "fnSurfaceFn": 10363792,
-    "fnTraceCall": 8921481
+    "dwSurfaceManager": 39078432,
+    "dwVphys2WorldPtr": 35779048,
+    "fnSurfaceFn": 10363808,
+    "fnTraceCall": 8921497
   },
   "vphysics2.dll": {
     "vtableCRnHullShape": 4067648,
