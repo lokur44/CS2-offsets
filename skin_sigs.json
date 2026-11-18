@@ -1,13 +1,13 @@
 {
   "client.dll": {
-    "dwActiveHudWeapon": 35754624,
-    "dwEntitySystemPtr": 37394864,
-    "fnFindHudElement": 15181776,
-    "fnFrameStageNotify": 11937968,
-    "fnRegenerateWeaponSkin": 8378400,
-    "fnRegenerateWeaponSkins": 8378400,
-    "fnSetMeshGroupMask": 11241072,
-    "fnSetModel": 9828544,
-    "fnUpdateSubClass": 2133472
+    "dwActiveHudWeapon": 35762944,
+    "dwEntitySystemPtr": 37409096,
+    "fnFindHudElement": 15187344,
+    "fnFrameStageNotify": 11940688,
+    "fnRegenerateWeaponSkin": 8381184,
+    "fnRegenerateWeaponSkins": 8381184,
+    "fnSetMeshGroupMask": 11243792,
+    "fnSetModel": 9831248,
+    "fnUpdateSubClass": 2131088
   }
 }
